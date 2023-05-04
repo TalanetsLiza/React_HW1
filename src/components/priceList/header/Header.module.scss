@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    margin: 0;
+    color: #FFFFFF;
+    font-family: "Arvo", serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 48px;
+    padding-top: 107px;
+}
+
+.description {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    color: #FFFFFF;
+    max-width: 540px;
+    text-align: center;
+    padding-top: 27px;
+    padding-bottom: 55px;
+}

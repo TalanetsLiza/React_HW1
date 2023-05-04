@@ -1,0 +1,23 @@
+.button {
+    padding: 16px 26px;
+    background-color: #FFFFFF;
+    border: 1px solid #9FA3A7;
+    border-radius: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #525252;
+    font-size: 12px;
+    line-height: 15px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #ffc80a;
+        color: #ffffff;
+        border-radius: 100px;
+        border: 1px solid #ffc80a;
+    }
+
+    &:active {
+        opacity: .8;
+    }
+}
